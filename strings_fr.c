@@ -126,7 +126,7 @@ hebcal_lookup_fr (register const char *str, register size_t len)
 #line 68 "strings_fr.gperf"
       {"Bo","Bo"},
 #line 59 "strings_fr.gperf"
-      {"Parashat","Parachah"},
+      {"Parashat","Parachat"},
       {""}, {""},
 #line 138 "strings_fr.gperf"
       {"Pesach","Pessah̲"},
@@ -577,7 +577,7 @@ hebcal_lookup_fr (register const char *str, register size_t len)
       {"Ha'Azinu","Ha'Azinou"},
       {""}, {""}, {""}, {""}, {""}, {""}, {""}, {""},
 #line 64 "strings_fr.gperf"
-      {"Beha'alotcha","Beha'alotkha"},
+      {"Beha'alotcha","Beha'alotekha"},
       {""}, {""}, {""}, {""}, {""}, {""}, {""},
 #line 193 "strings_fr.gperf"
       {"Sukkot VII (Hoshana Raba)","Soukkot VII (Hochanah Rabbah)"},

@@ -37,3 +37,6 @@ stamp-h1
 *.exe
 *.out
 *.app
+
+*.ics
+Makefile.in
